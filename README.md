@@ -1,3 +1,8 @@
+### Pre-Introduction
+
+Below are the instructions provided for this programming assignment. Comments 
+in my cachematrix.R file further explain what my code does and how to use it.
+
 ### Introduction
 
 This second programming assignment will require you to write an R
